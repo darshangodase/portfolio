@@ -360,6 +360,7 @@ article .icon {
 
 #projects {
   position: relative;
+  height:100vh;
 }
 
 .color-container {
