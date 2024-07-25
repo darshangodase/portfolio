@@ -320,6 +320,7 @@ section {
 
 #experience {
   position: relative;
+  height:110vh;
 }
 
 .experience-sub-title {
@@ -359,7 +360,6 @@ article .icon {
 
 #projects {
   position: relative;
-  height:110vh;
 }
 
 .color-container {
